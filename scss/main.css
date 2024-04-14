@@ -11988,6 +11988,7 @@ p {
 }
 
 .hero-scene {
+  margin-bottom: 20px;
   position: relative;
 }
 .hero-scene::before {
@@ -12042,4 +12043,8 @@ span {
   left: 50%;
   transform: translate(-50%, -50%);
   transition: all 0.3s;
+}
+
+.form-label {
+  color: #906427;
 }/*# sourceMappingURL=main.css.map */
