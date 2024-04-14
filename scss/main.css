@@ -11984,7 +11984,7 @@ footer.footer {
 
 p {
   font-family: "Hind Madurai", serif;
-  font-size: 15px;
+  font-size: 18px;
 }
 
 .hero-scene {
@@ -12010,4 +12010,15 @@ p {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+span {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 20px;
+  color: blue;
 }/*# sourceMappingURL=main.css.map */

@@ -19,7 +19,7 @@ footer.footer{
 
 p{
     font-family: $font-family-serif;
-    font-size: 15px;
+    font-size: 18px;
 }
 
 .hero-scene{
@@ -50,3 +50,13 @@ p{
     }
 }
 
+.text-justify{
+    text-align: justify;
+}
+
+span{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    color:blue;
+}
