@@ -12017,13 +12017,6 @@ p {
   text-align: justify;
 }
 
-span {
-  font-style: italic;
-  font-weight: bold;
-  font-size: 20px;
-  color: blue;
-}
-
 .image-card {
   position: relative;
 }
@@ -12059,4 +12052,10 @@ span {
 
 .form-label {
   color: #906427;
+}
+
+.allReservation a {
+  display: block;
+  padding: 10px;
+  color: #292222;
 }/*# sourceMappingURL=main.css.map */
