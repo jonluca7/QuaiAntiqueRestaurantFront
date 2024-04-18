@@ -9,12 +9,12 @@ function checkCredentials(){
     // Ici il faudra appeller l'API pour vérifier les crédentials en BDD
 
      if(inputMail.value == "test@gmail.com" && inputPassword.value == "12345"){
-     alert("Vous êtes connecté");
 
     //  Il faudra recuperer le vrai Token
      
     const token = "bbeberrsrssoeghdpslmqqteyeiiqterte";
     setToken(token);
+    setCookie(roleCookieName , "client" , 7)
 
     // Placer ce token en Cookie
 
